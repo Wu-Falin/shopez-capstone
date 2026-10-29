@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#FFF3D2"/>
+<circle cx="200" cy="205" r="150" fill="#FFE7AA"/>
+<ellipse cx="200" cy="340" rx="120" ry="12" fill="#14213D" opacity="0.08"/>
+
+<rect x="128" y="74" width="160" height="236" rx="10" fill="#14213D"/>
+<rect x="118" y="80" width="160" height="236" rx="10" fill="#FFC93C" stroke="#14213D" stroke-width="6"/>
+<rect x="118" y="80" width="26" height="236" rx="6" fill="#14213D" opacity="0.15"/>
+<text x="212" y="226" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900" fill="#14213D" text-anchor="middle">JS</text>
+<rect x="166" y="250" width="92" height="10" rx="5" fill="#14213D" opacity="0.5"/>
+<rect x="180" y="270" width="64" height="10" rx="5" fill="#14213D" opacity="0.3"/>
+</svg>
